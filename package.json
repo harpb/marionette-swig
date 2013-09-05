@@ -1,0 +1,28 @@
+{
+  "name": "backbone.marionette.swig",
+  "version": "0.1.0",
+  "description": "Swig integration with Marionette.",
+  "main": "src/amd/backbone.marionette.swig.js",
+  "keywords": [
+    "marionette",
+    "backbone",
+    "swig",
+    "templates"
+  ],
+  "homepage": "https://github.com:harpb/marionette-swig",
+  "bugs": "https://github.com:harpb/marionette-swig/issues",
+  "author": "Harp B.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com:harpb/marionette-swig.git"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}

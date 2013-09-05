@@ -1,0 +1,14 @@
+{
+    "name": "backbone.marionette.swig",
+    "version": "0.1.6",
+    "main": "./src/backbone.marionette.swig.js",
+    "description": "Swig integration with Marionette.",
+    "keywords": [
+        "marionette",
+        "backbone",
+        "swig",
+        "templates"
+    ],
+    "author": "Harp B.",
+    "dependencies" : {}
+}
