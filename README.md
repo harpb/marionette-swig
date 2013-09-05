@@ -40,3 +40,6 @@ template just before you use them.
 
 It is recommended that you pre-compile all templates into a single javascript file for
 production. This can be done easily with Grunt.
+
+## Credits
+For the repository structure and docs: https://github.com/simonblee/marionette-dust
